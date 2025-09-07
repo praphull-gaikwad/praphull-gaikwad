@@ -4,13 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e2e-autom8r" alt="praphull-gaikwad" /> </p>
 
 # Keyskills:
-- 🔭 Programming Languages (JavaScript, TypeScript, Java & Python)
-- 🔭 Web Automation (Playwright, Cypress, Selenium)
-- 🔭 API Automation (Axios, Rest Assured)
-- 🔭 Desktop Automation (Playwright, Nutjs)
-- 🔭 Infrastructure As Cloud (IaC) Automation (Using CLI and SDK)
-- 🔭 QA-Ops/Test-Ops (Git, Jenkins, Docker, AWS, etc.)
-- 🔭 Gen AIs for Automation(Anthropic Claude, ChatGPT, Copilot, etc.)
+- 🔭 **Programming Languages:** Java, JavaScript, TypeScript  
+- ⚙️ **Web Automation Tools:** Playwright, Cypress, Selenium  
+- 🔗 **API Automation Tools:** Playwright, Axios, Rest Assured, Cypress, Postman  
+- 🖥️ **Desktop Automation Tool:** Playwright (Electron-based desktop app automation)  
+- 🚀 **CI/CD Tools:** Git, Jenkins, Docker, AWS  
+- 📂 **Codebase Management:** Bitbucket, GitHub, GitLab  
+- ✅ **Defect & Test Tracking Tools:** Jira, Confluence, Testrail  
+- 📋 **Test Frameworks:** TestNG, Mocha, Jest, Cucumber  
+- 🤖 **AI & Automation Productivity Tools:** Anthropic Claude Code AI, ChatGPT, GitHub Copilot  
+- 💻 **Operating Systems:** Windows, Linux, Mac
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
