@@ -10,7 +10,7 @@
 - 🔭 Desktop Automation (Playwright, Nutjs)
 - 🔭 Infrastructure As Cloud (IaC) Automation (Using CLI and SDK)
 - 🔭 QA-Ops/Test-Ops (Git, Jenkins, Docker, AWS, etc.)
-- 🔭 Gen AIs for Automation(Anthorpic Claude, ChatGPT, Copilot, etc.)
+- 🔭 Gen AIs for Automation(Anthropic Claude, ChatGPT, Copilot, etc.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
