@@ -1,18 +1,16 @@
-<!-- ![logo](https://github.com/e2e-autom8r/e2e-autom8r/blob/main/Github%20Banner.png) -->
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h1 align="center">Hi 👋, I'm Praphull Gaikwad</h1>
-<h3 align="center">A passionate QA-Automation Engineer from India</h3>
+<h3 align="center">A passionate Gen-AI enabled  Test Automation Engineer (QA) from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e2e-autom8r" alt="praphull-gaikwad" /> </p>
 
 # Keyskills:
-- 🔭 Programming Languages (Java, JavaScript, TypeScript & Python)
-- 🔭 Web Automation (Selenium, Cypress, Playwright)
-- 🔭 API Automation (Rest Assured, Axios, Fetch, etc.)
-- 🔭 Mobile Automation (Appium)
-- 🔭 Desktop Automation (Playwright, Nutjs, SikuliX, etc.)
+- 🔭 Programming Languages (JavaScript, TypeScript, Java & Python)
+- 🔭 Web Automation (Playwright, Cypress, Selenium)
+- 🔭 API Automation (Axios, Rest Assured)
+- 🔭 Desktop Automation (Playwright, Nutjs)
 - 🔭 Infrastructure As Cloud (IaC) Automation (Using CLI and SDK)
-- 🔭 QA-OPS (Git, Jenkins, Docker, AWS, etc.)
+- 🔭 QA-Ops/Test-Ops (Git, Jenkins, Docker, AWS, etc.)
+- 🔭 Gen AIs for Automation(Anthorpic Claude, ChatGPT, Copilot, etc.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
