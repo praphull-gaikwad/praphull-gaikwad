@@ -1,4 +1,4 @@
-![logo](https://github.com/e2e-autom8r/e2e-autom8r/blob/main/Github%20Banner.png)
+<!-- ![logo](https://github.com/e2e-autom8r/e2e-autom8r/blob/main/Github%20Banner.png) -->
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h1 align="center">Hi 👋, I'm Praphull Gaikwad</h1>
