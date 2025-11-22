@@ -1,7 +1,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h1 align="center">Hi 👋, I'm Praphull Gaikwad</h1>
 <h3 align="center">A Passionate Gen-AI Enabled Test Automation Engineer (QA) from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=e2e-autom8r" alt="praphull-gaikwad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praphull-gaikwad" alt="praphull-gaikwad" /> </p>
 
 # Keyskills:
 - 🔭 **Programming Languages:** Java, JavaScript, TypeScript  
@@ -37,4 +37,4 @@
         <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /></a>
     </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=e2e-autom8r&show_icons=true&locale=en&layout=compact" alt="praphullgaikwad" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praphull-gaikwad&show_icons=true&locale=en&layout=compact" alt="praphullgaikwad" /></p>
